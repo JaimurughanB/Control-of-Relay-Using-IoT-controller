@@ -10,7 +10,7 @@ Proteus
 ## PROCEDURE:
 ### Arduino IDE
 Step1:Open the Arduino IDE </br>
-Step2: Go to file and select new file option </br>
+Step2: Go to file and select new file option </br>https://github.com/JaimurughanB/Control-of-Relay-Using-IoT-controller/edit/main/README.md
 Step3:Type the program </br>
 Step4:Go to file and select save option to save the program </br>
 Step5:Go to sketch and select verify or compile options </br>
@@ -54,7 +54,7 @@ void loop() {
 
 
 ## OUTPUT:
-     OFF
+OFF
 ![image](https://github.com/user-attachments/assets/adf280c6-c46d-4006-a33a-5fb3bb1a6a54)
  
 ## RESULT:
