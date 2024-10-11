@@ -54,7 +54,7 @@ void loop() {
 
 
 ## OUTPUT:
-OFF
+     OFF
 ![image](https://github.com/user-attachments/assets/adf280c6-c46d-4006-a33a-5fb3bb1a6a54)
  
 ## RESULT:
