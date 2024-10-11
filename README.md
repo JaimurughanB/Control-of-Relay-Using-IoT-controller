@@ -54,9 +54,9 @@ void loop() {
 
 
 ## OUTPUT:
-OFF
+OFF:
 ![image](https://github.com/user-attachments/assets/eacda477-18bc-4c49-9e53-ee992791c727)
-ON
+ON:
 ![image](https://github.com/user-attachments/assets/7834e190-c00c-445d-8a6c-8f3614e43e56)
 
 
