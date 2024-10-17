@@ -51,16 +51,16 @@ void loop() {
 }
 ````
 ## CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/41cf0a2e-4ec4-4751-8b5c-360b01e8df23)
+
+![366283605-35693977-1386-441d-a3ab-c78c951d8cf7](https://github.com/user-attachments/assets/441ac509-b3e6-4685-aa13-f246aafa485b)
 
 
 ## OUTPUT:
    OFF
 
-![image](https://github.com/user-attachments/assets/b07d84ee-5046-4e6c-9895-a78b881610a1)
 
    ON 
-![image](https://github.com/user-attachments/assets/80aa018a-710c-4e63-ae8c-8bc5540a0dbb)
+
 
 
 ## RESULT:
