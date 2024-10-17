@@ -49,6 +49,7 @@ void loop() {
   digitalWrite(relay,LOW);
   delay(1000);
 }
+
 ````
 ## CIRCUIT DIAGRAM:
 
