@@ -16,7 +16,6 @@ Step3:Type the program </br>
 Step4:Go to file and select save option to save the program </br>
 Step5:Go to sketch and select verify or compile options </br>
 Step6:If no error Hex file will be generated in the temporary folder </br>
-
 ### Proteus
 Step7:Open the Proteus software </br>
 Step8:Go to file select new design and click ok button </br>
