@@ -16,7 +16,7 @@ Step3:Type the program </br>
 Step4:Go to file and select save option to save the program </br>
 Step5:Go to sketch and select verify or compile options </br>
 Step6:If no error Hex file will be generated in the temporary folder </br>
-### Proteus
+## Proteus
 Step7:Open the Proteus software </br>
 Step8:Go to file select new design and click ok button </br>
 Step9:Select component mode and click pick devices from the library </br>
@@ -56,10 +56,12 @@ void loop() {
 
 ## OUTPUT:
    OFF
-![image](https://github.com/user-attachments/assets/adf280c6-c46d-4006-a33a-5fb3bb1a6a54)
+
+![image](https://github.com/user-attachments/assets/b07d84ee-5046-4e6c-9895-a78b881610a1)
 
    ON 
- ![image](https://github.com/user-attachments/assets/d27e1704-59f4-4027-9cb9-4719617804de)
+![image](https://github.com/user-attachments/assets/80aa018a-710c-4e63-ae8c-8bc5540a0dbb)
+
 
 ## RESULT:
 
